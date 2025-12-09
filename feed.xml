@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>nlsn.me</title>
+    <link href="https://nlsn.me/feed.xml" rel="self" />
+    <link href="https://nlsn.me" />
+    <updated>2025-12-09T07:23:50-08:00</updated>
+    <author>
+        <name>Bob Nelson</name>
+    </author>
+    <id>https://nlsn.me</id>
+
+    <entry>
+        <title>NLSN.ME</title>
+        <author>
+            <name>Bob Nelson</name>
+        </author>
+        <link href="https://nlsn.me/posts/nlsnme/"/>
+        <id>https://nlsn.me/posts/nlsnme/</id>
+            <category term="Maintenance Post"/>
+
+        <updated>2025-12-09T06:58:11-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Welcome NLSN Personal Portfolio Site We are working on bringing content to the site. In the mean-time, to keep in contact, email &#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="welcome">Welcome</h1>
+<h3 id="nlsn-personal-portfolio-site">NLSN Personal Portfolio Site</h3>
+<p>We are working on bringing content to the site.</p><p>In the mean-time, to keep in contact, email <a href="mailto:&#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;">&#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

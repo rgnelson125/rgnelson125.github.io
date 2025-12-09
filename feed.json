@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nlsn.me",
+    "description": "",
+    "home_page_url": "https://nlsn.me",
+    "feed_url": "https://nlsn.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Bob Nelson"
+    },
+    "items": [
+        {
+            "id": "https://nlsn.me/posts/nlsnme/",
+            "url": "https://nlsn.me/posts/nlsnme/",
+            "title": "NLSN.ME",
+            "summary": "Welcome NLSN Personal Portfolio Site We are working on bringing content to the site. In the mean-time, to keep in contact, email &#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;",
+            "content_html": "<h1 id=\"welcome\">Welcome</h1>\n<h3 id=\"nlsn-personal-portfolio-site\">NLSN Personal Portfolio Site</h3>\n<p>We are working on bringing content to the site.</p><p>In the mean-time, to keep in contact, email <a href=\"mailto:&#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;\">&#x62;&#x6f;&#98;&#x40;&#110;&#x6c;&#x73;&#110;&#46;&#109;&#101;</a></p>",
+            "author": {
+                "name": "Bob Nelson"
+            },
+            "tags": [
+                   "Maintenance Post"
+            ],
+            "date_published": "2025-12-09T06:58:11-08:00",
+            "date_modified": "2025-12-09T07:23:50-08:00"
+        }
+    ]
+}
